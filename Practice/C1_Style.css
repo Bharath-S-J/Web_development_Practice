@@ -1,0 +1,26 @@
+#image{
+    display: block;
+    width: 20%;
+    max-width: 50%;
+    height: auto;
+}
+
+#image-div{
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+}
+
+#image-caption{
+    font-size:70px;
+
+
+}
+
+#image-desc{
+    font-size:60px;
+
+
+}
